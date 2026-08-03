@@ -1,9 +1,0 @@
-# Executables
-bitAnd
-*.out
-*.exe
-
-# Object files
-*.o
-
-# Linux binaries (optional - ignore files with no extension)
